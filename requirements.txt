@@ -1,0 +1,6 @@
+pandas~=2.0.3
+langchain~=0.0.275
+sentence_transformers~=2.2.2
+ibm-watson-machine-learning==1.0.312
+python-dotenv==1.0.0
+pydantic~=2.3.0

@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+pandas = "1.5.3"
+sentence_transformers = "*"
+ibm-watson-machine-learning = "==1.0.312"
+black = "*"
+pypdf = "*"
+faiss-cpu = "*"
+python-dotenv = "==1.0.0"
+tiktoken = "*"
+ibm-watson = "*"
+pydantic = "*"
+openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.5"
